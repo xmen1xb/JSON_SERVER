@@ -1,0 +1,26 @@
+{
+  "customer-notification": {
+    "status": "success",
+    "data": [
+      {
+        "id": 36,
+        "customer_id": 71723,
+        "notification_and_report_type_id": 1,
+        "subscribe_status": 0
+      },
+      {
+        "id": 37,
+        "customer_id": 71723,
+        "notification_and_report_type_id": 4,
+        "subscribe_status": 1
+      },
+      {
+        "id": 38,
+        "customer_id": 71723,
+        "notification_and_report_type_id": 5,
+        "subscribe_status": 0
+      }
+    ],
+    "trace_id": null
+  }
+}

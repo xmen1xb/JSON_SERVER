@@ -1,0 +1,119 @@
+{
+  "sagp-student-statistics": {
+    "status": "success",
+    "data": [
+      {
+        "date_id": 0,
+        "date": "2023-01-30",
+        "student_id": 0,
+        "student_full_name": "",
+        "student_avatar": "",
+        "subject_id": 0,
+        "grade_id": 0,
+        "class_level_id": 0,
+        "class_level_name": "",
+        "dsc_id": 0,
+        "dsc_name": "",
+        "dsc_live_at": 123456789000,
+        "dsc_live_duration": 0,
+        "dsc_training_type_id": 0,
+        "dsc_first_joined_at": 123456789000,
+        "is_live_join": 0,
+        "is_join_battle": 0,
+        "is_get_join": 1,
+        "dsc_session_group_category": "C",
+        "GET_teacher_id": 1,
+        "get_teacher_gender": "",
+        "GET_teacher_full_name": "",
+        "GET_teacher_display_name": "",
+        "GET_teacher_avatar": "",
+        "num_of_quiz": 0,
+        "num_of_quiz_answer_correct": 0,
+        "success_rate": 20,
+        "correct_live_quiz_answers": 0,
+        "total_live_quiz_answers": 0,
+        "total_live_quizzes": 0,
+        "live_quiz_answers": [
+          {
+            "daily_class_id": 0,
+            "student_id": 0,
+            "quiz_id": 0,
+            "ordering": 0,
+            "learning_object_id": 0,
+            "learning_object_name": "",
+            "is_answered": 0,
+            "is_correct": 0
+          }
+        ],
+        "teacher_comment_attitude": "",
+        "teacher_comment_knowledge": "",
+        "teacher_comment_skill": "",
+        "teacher_recommendation": "",
+        "gte_comments": [
+          {
+            "geta_student_info_id": 0,
+            "attribute_id": 10,
+            "value": "11"
+          }
+        ],
+        "avg_quiz_answer_correct_time": 2.5
+      },
+      {
+        "date_id": 0,
+        "date": "2023-02-02",
+        "student_id": 0,
+        "student_full_name": "",
+        "student_avatar": "",
+        "subject_id": 0,
+        "grade_id": 0,
+        "class_level_id": 0,
+        "class_level_name": "",
+        "dsc_id": 0,
+        "dsc_name": "",
+        "dsc_live_at": 123456789000,
+        "dsc_live_duration": 0,
+        "dsc_training_type_id": 0,
+        "dsc_first_joined_at": 123456789000,
+        "is_live_join": 0,
+        "is_join_battle": 0,
+        "is_get_join": 1,
+        "dsc_session_group_category": "B",
+        "GET_teacher_id": 1,
+        "get_teacher_gender": "",
+        "GET_teacher_full_name": "",
+        "GET_teacher_display_name": "",
+        "GET_teacher_avatar": "",
+        "num_of_quiz": 0,
+        "num_of_quiz_answer_correct": 0,
+        "success_rate": 30,
+        "correct_live_quiz_answers": 0,
+        "total_live_quiz_answers": 0,
+        "total_live_quizzes": 0,
+        "live_quiz_answers": [
+          {
+            "daily_class_id": 0,
+            "student_id": 0,
+            "quiz_id": 0,
+            "ordering": 0,
+            "learning_object_id": 0,
+            "learning_object_name": "",
+            "is_answered": 0,
+            "is_correct": 0
+          }
+        ],
+        "teacher_comment_attitude": "",
+        "teacher_comment_knowledge": "",
+        "teacher_comment_skill": "",
+        "teacher_recommendation": "",
+        "gte_comments": [
+          {
+            "geta_student_info_id": 0,
+            "attribute_id": 10,
+            "value": "10"
+          }
+        ],
+        "avg_quiz_answer_correct_time": 2.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "login": {
+    "status": "success",
+    "data": {
+      "original_id": 71723,
+      "account_id": "20e63a99-9a7b-47f5-a511-faa8d8018bc9",
+      "student_id": 192,
+      "specific_object_id": 23,
+      "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJ1c2VyX2lkXCI6NzE3MjMsXCJyb2xlc1wiOltcInBhcmVudFwiXSxcInVzZXJuYW1lXCI6XCJwaF8wOTEyOTg1MTI1XCIsXCJlbWFpbFwiOm51bGwsXCJwcmluY2lwYWxcIjpcInBoXzA5MTI5ODUxMjVcIixcImFwcF9pZFwiOlwibG1zLXdlYlwiLFwiYWNjb3VudF9pZFwiOlwiMjBlNjNhOTktOWE3Yi00N2Y1LWE1MTEtZmFhOGQ4MDE4YmM5XCJ9IiwiaWF0IjoxNjY1Mzc2ODgzLCJleHAiOjE2NjU5ODE2ODN9.ioG5cLjK8a0nFGonBTXekFGP8WA8AnkcfB44PpZWP7g",
+      "refresh_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ7XCJ1c2VyX2lkXCI6NzE3MjMsXCJyb2xlc1wiOltcInBhcmVudFwiXSxcInVzZXJuYW1lXCI6XCJwaF8wOTEyOTg1MTI1XCIsXCJlbWFpbFwiOm51bGwsXCJwcmluY2lwYWxcIjpcInBoXzA5MTI5ODUxMjVcIixcImFwcF9pZFwiOlwibG1zLXdlYlwiLFwiYWNjb3VudF9pZFwiOlwiMjBlNjNhOTktOWE3Yi00N2Y1LWE1MTEtZmFhOGQ4MDE4YmM5XCJ9IiwiaWF0IjoxNjY1Mzc2ODgzLCJleHAiOjE2NjUzODA0ODN9.9QQYYtcqbkRPLmoeCEEHezL0T3GtKDtEVqYe_HaW3uQ",
+      "roles": ["parent"],
+      "username": "ph_0912985125",
+      "name": null,
+      "email": null,
+      "first_name": null,
+      "last_name": null,
+      "full_name": "Trần Mạnh Thắng",
+      "account_status": "ACTIVE",
+      "principal": "ph_0912985125",
+      "expires_in": 604800,
+      "avatar": "https://d3b26s38bz5i4w.cloudfront.net/user/profile/avatar/71723/09292022/blob",
+      "first_time_login": false
+    },
+    "trace_id": "f00a497bbef604a9165b97c2fee3d848"
+  }
+}

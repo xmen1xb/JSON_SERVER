@@ -1,0 +1,48 @@
+{
+  "children-purchase": {
+    "status": "success",
+    "data": [
+      {
+        "student_id": 192,
+        "start_date": 1599436800000,
+        "happened_at": 1596454689000,
+        "end_date": 1613692800000,
+        "product_id": 2,
+        "product": "Clevai Captain",
+        "period": 5,
+        "period_unit": "MONTH"
+      },
+      {
+        "student_id": 193,
+        "start_date": 1599436800000,
+        "happened_at": 1596454689000,
+        "end_date": 1613692800000,
+        "product_id": 2,
+        "product": "Clevai Mars",
+        "period": 5,
+        "period_unit": "MONTH"
+      },
+      {
+        "student_id": 192,
+        "start_date": 1599436800000,
+        "happened_at": 1596454689000,
+        "end_date": 1613692800000,
+        "product_id": 2,
+        "product": "Clevai Captain",
+        "period": 5,
+        "period_unit": "MONTH"
+      },
+      {
+        "student_id": 192,
+        "start_date": 1599436800000,
+        "happened_at": 1596454689000,
+        "end_date": 1613692800000,
+        "product_id": 2,
+        "product": "Clevai Captain",
+        "period": 5,
+        "period_unit": "MONTH"
+      }
+    ],
+    "trace_id": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "JSON_SERVER",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "TanNV",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start":"nodemon server.js"
+  }
+}

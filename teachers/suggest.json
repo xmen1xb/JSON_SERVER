@@ -1,0 +1,243 @@
+{
+  "suggest": {
+    "content": [
+      {
+        "teacher_id": 5696,
+        "teacher_username": "andth",
+        "teacher_fullname": "Đặng Thị Hoài Ân",
+        "average_rating": 3.67,
+        "canceled_rate": 0,
+        "total_math_basic_registered_schedules": 40,
+        "total_math_plus_registered_schedules": 40,
+        "total_arranged_is_main": 0,
+        "total_arranged_is_backup": 0,
+        "teacher_rank": 3,
+        "teaching_schedules_in_period": [
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-30",
+            "id": null,
+            "class_level_id": 2,
+            "teaching_position_type": 1,
+            "status": "TEMPORARY"
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-02",
+            "id": 123456,
+            "class_level_id": 2,
+            "teaching_position_type": 2,
+            "status": "CONFIRMED"
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-29",
+            "id": 34566,
+            "class_level_id": 2,
+            "teaching_position_type": 1,
+            "status": "CONFIRMED"
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-03",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-28",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-01",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          }
+        ]
+      },
+      {
+        "teacher_id": 48690,
+        "teacher_username": "anhltv",
+        "teacher_fullname": "Lê Thị Việt Anh",
+        "average_rating": 0,
+        "canceled_rate": 0,
+        "total_math_basic_registered_schedules": 35,
+        "total_math_plus_registered_schedules": 35,
+        "total_arranged_is_main": 0,
+        "total_arranged_is_backup": 0,
+        "teacher_rank": 3,
+        "teaching_schedules_in_period": [
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-30",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-02",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-29",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-03",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-28",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-01",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          }
+        ]
+      },
+      {
+        "teacher_id": 40101,
+        "teacher_username": "cuongnk",
+        "teacher_fullname": "Nguyễn Kim Cương",
+        "average_rating": 0,
+        "canceled_rate": 0,
+        "total_math_basic_registered_schedules": 33,
+        "total_math_plus_registered_schedules": 33,
+        "total_arranged_is_main": 0,
+        "total_arranged_is_backup": 0,
+        "teacher_rank": 3,
+        "teaching_schedules_in_period": [
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-30",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-29",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-03",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-11-28",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          },
+          {
+            "category": null,
+            "product_id": 2,
+            "grade_id": 13,
+            "subject_id": 1,
+            "teaching_date": "2022-12-01",
+            "id": null,
+            "class_level_id": null,
+            "teaching_position_type": null,
+            "status": null
+          }
+        ]
+      }
+    ],
+    "total_elements": 40,
+    "is_last": false,
+    "is_first": true,
+    "current_page_elements": 12,
+    "max_page_size": 12,
+    "current_page_number": 1,
+    "current_page_offset": 0,
+    "total_pages": 4
+  }
+}

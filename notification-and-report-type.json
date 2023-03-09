@@ -1,0 +1,128 @@
+{
+  "notification-and-report-type": {
+    "status": "success",
+    "data": [
+      {
+        "id": 1,
+        "notification": {
+          "id": 1,
+          "title": "Sau mỗi buổi học",
+          "name": "Thông báo sau mỗi buổi học",
+          "frequency": 1,
+          "query_criteria": null,
+          "trigger_type_id": 1,
+          "trigger_type_code": "FREQUENCY"
+        },
+        "report_type": {
+          "id": 1,
+          "name": "Báo cáo sau buổi học",
+          "code": "Báo cáo sau buổi học",
+          "description": "Báo cáo sau buổi học",
+          "alias": "bao-cao-sau-buoi-hoc?utm_source=notify&utm_medium=daily-frequence-message&utm_campaign=general"
+        },
+        "published": true
+      },
+      {
+        "id": 2,
+        "notification": {
+          "id": 1,
+          "title": "Sau mỗi buổi học",
+          "name": "Thông báo sau mỗi buổi học",
+          "frequency": 1,
+          "query_criteria": null,
+          "trigger_type_id": 1,
+          "trigger_type_code": "FREQUENCY"
+        },
+        "report_type": {
+          "id": 2,
+          "name": "Báo cáo chi tiết buổi học",
+          "code": "Báo cáo chi tiết buổi học",
+          "description": "Báo cáo chi tiết buổi học",
+          "alias": "bao-cao-chi-tiet-buoi-hoc?utm_source=notify&utm_medium=daily-frequence-message&utm_campaign=general"
+        },
+        "published": true
+      },
+      {
+        "id": 3,
+        "notification": {
+          "id": 2,
+          "title": "Hàng tuần",
+          "name": "Thông báo hàng tuần",
+          "frequency": 7,
+          "query_criteria": null,
+          "trigger_type_id": 1,
+          "trigger_type_code": "FREQUENCY"
+        },
+        "report_type": {
+          "id": 3,
+          "name": "Báo cáo tiến trình",
+          "code": "Báo cáo tiến trình",
+          "description": "Báo cáo tiến trình",
+          "alias": "bao-cao-tien-trinh?utm_source=notify&utm_medium=weekly-frequency-meesage&utm_campaign=general"
+        },
+        "published": true
+      },
+      {
+        "id": 4,
+        "notification": {
+          "id": 3,
+          "title": "Con nghỉ học",
+          "name": "Thông báo khi con nghỉ học",
+          "frequency": null,
+          "query_criteria": null,
+          "trigger_type_id": 2,
+          "trigger_type_code": "ABNORMAL"
+        },
+        "report_type": {
+          "id": 1,
+          "name": "Báo cáo sau buổi học",
+          "code": "Báo cáo sau buổi học",
+          "description": "Báo cáo sau buổi học",
+          "alias": "bao-cao-sau-buoi-hoc?utm_source=notify&utm_medium=daily-frequence-message&utm_campaign=general"
+        },
+        "published": true
+      },
+      {
+        "id": 5,
+        "notification": {
+          "id": 4,
+          "title": "Con đạt kết quả tốt",
+          "name": "Thông báo khi con đạt kết quả tốt",
+          "frequency": null,
+          "query_criteria": null,
+          "trigger_type_id": 2,
+          "trigger_type_code": "ABNORMAL"
+        },
+        "report_type": {
+          "id": 1,
+          "name": "Báo cáo sau buổi học",
+          "code": "Báo cáo sau buổi học",
+          "description": "Báo cáo sau buổi học",
+          "alias": "bao-cao-sau-buoi-hoc?utm_source=notify&utm_medium=daily-frequence-message&utm_campaign=general"
+        },
+        "published": true
+      },
+      {
+        "id": 6,
+        "notification": {
+          "id": 5,
+          "title": "Nhắc con vào học",
+          "name": "Nhắc con vào học",
+          "frequency": 1,
+          "query_criteria": null,
+          "trigger_type_id": 1,
+          "trigger_type_code": "FREQUENCY"
+        },
+        "report_type": {
+          "id": 4,
+          "name": "Nhắc con vào học",
+          "code": "Nhắc con vào học",
+          "description": "Nhắc con vào học",
+          "alias": "schedule"
+        },
+        "published": true
+      }
+    ],
+    "trace_id": null
+  }
+}

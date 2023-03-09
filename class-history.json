@@ -1,0 +1,41 @@
+{
+  "class-history": {
+    "status": "success",
+    "data": [
+      {
+        "class_level_id": 2,
+        "student_id": 192,
+        "grade_id": 11,
+        "grade_name": "Khối 7",
+        "subject_id": 1,
+        "subject_name": "Môn Toán",
+        "training_type_id": 1,
+        "class_level_name": "C2",
+        "grade_original_name": "Khối 7"
+      },
+      {
+        "class_level_id": 2,
+        "student_id": 192,
+        "grade_id": 10,
+        "grade_name": "Khối 6",
+        "subject_id": 1,
+        "subject_name": "Môn Toán",
+        "training_type_id": 1,
+        "class_level_name": "C2",
+        "grade_original_name": "Khối 6"
+      },
+      {
+        "class_level_id": 3,
+        "student_id": 192,
+        "grade_id": 9,
+        "grade_name": "Khối 5",
+        "subject_id": 1,
+        "subject_name": "Môn Toán",
+        "training_type_id": 1,
+        "class_level_name": "C2",
+        "grade_original_name": "Khối 5"
+      }
+    ],
+    "trace_id": null
+  }
+}

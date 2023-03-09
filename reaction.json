@@ -1,0 +1,107 @@
+{
+  "reaction": {
+    "status": "success",
+    "data": [
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 2,
+        "reaction_area_name": "View_DCR1_Summary",
+        "reaction_area_code": "View_DCR1_Summary",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 9,
+        "reaction_area_name": "View_DCR2_Summary",
+        "reaction_area_code": "View_DCR2_Summary",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 13,
+        "reaction_area_name": "View_DCR2_JUS",
+        "reaction_area_code": "View_DCR2_JUS",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 1,
+        "reaction_area_id": 11,
+        "reaction_area_name": "View_PR_Summary",
+        "reaction_area_code": "View_PR_Summary",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 12,
+        "reaction_area_name": "View_PR_Details",
+        "reaction_area_code": "View_PR_Details",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 10,
+        "reaction_area_name": "View_DCR2_Detail",
+        "reaction_area_code": "View_DCR2_Detail",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 6,
+        "reaction_area_name": "View_DCR1_TOQ",
+        "reaction_area_code": "View_DCR1_TOQ",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 3,
+        "reaction_area_name": "View_DCR1_FQT",
+        "reaction_area_code": "View_DCR1_FQT",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 1,
+        "reaction_area_id": 4,
+        "reaction_area_name": "View_DCR1_JUS",
+        "reaction_area_code": "View_DCR1_JUS",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 7,
+        "reaction_area_name": "View_DCR1_BestRCA",
+        "reaction_area_code": "View_DCR1_BestRCA",
+        "alias": null
+      },
+      {
+        "customer_id": 71723,
+        "student_id": 192,
+        "reaction_type_id": 2,
+        "reaction_area_id": 8,
+        "reaction_area_name": "View_DCR1_BadRCA",
+        "reaction_area_code": "View_DCR1_BadRCA",
+        "alias": null
+      }
+    ],
+    "trace_id": null
+  }
+}

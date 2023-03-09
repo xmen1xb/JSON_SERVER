@@ -1,0 +1,162 @@
+{
+  "quantity": {
+    "status": "success",
+    "data": [
+      {
+        "date": "2022-11-28",
+        "registered_quantity": 38,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-11-29",
+        "registered_quantity": 38,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-11-30",
+        "registered_quantity": 37,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-12-01",
+        "registered_quantity": 38,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "registered_quantity": 37,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-12-03",
+        "registered_quantity": 35,
+        "required_quantity": {
+          "main": 1,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      },
+      {
+        "date": "2022-12-04",
+        "registered_quantity": 0,
+        "required_quantity": {
+          "main": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null,
+          "backup": 0
+        },
+        "assigned_quantity": {
+          "main": 0,
+          "main_confirmed": 0,
+          "main_temporary": 0,
+          "backup": 0,
+          "main_a": null,
+          "main_b": null,
+          "main_c": null,
+          "main_d": null
+        }
+      }
+    ],
+    "trace_id": "24d8fdd6a54039ac2a240846b6909396"
+  }
+}

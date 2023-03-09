@@ -1,0 +1,15 @@
+{
+  "total-updating-times": {
+    "status": "success",
+    "data": [
+      {
+        "attribute": "learning_schedule",
+        "updating_times": 9,
+        "limit": 8,
+        "package_period": 12,
+        "package_period_unit": "MONTH"
+      }
+    ],
+    "trace_id": null
+  }
+}

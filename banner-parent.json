@@ -1,0 +1,110 @@
+{
+  "banner": {
+    "status": "success",
+    "data": [
+      {
+        "id": 0,
+        "image_mobile_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676581827.png",
+        "image_desktop_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676463421.png",
+        "image_tablet_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676601781.png",
+        "title": "“THẢ TIM” CÓ HẠT DẺ - KHO QUÀ MỚI TƯNG BỪNG",
+        "sub_title": "Clevai cập nhật kho quà +30 món mới đầy thú vị và tính năng “thả tim” nhận ngay 200 hạt dẻ, giúp học sinh có thêm động lực học vui, học đều, học tốt.",
+        "text_in_button": "Vào kho quà",
+        "start_date": 123456789000,
+        "end_date": 123456789000,
+        "active": false,
+        "campaign": "",
+        "cta_url": "",
+        "created_at": 123456789000,
+        "updated_at": 123456789000,
+        "grade_subject_class_levels": [
+          {
+            "id": 0,
+            "grade_id": 0,
+            "class_level_id": 0,
+            "subject_id": 0
+          }
+        ],
+        "websites": [
+          {
+            "id": 1,
+            "code": "STW"
+          },
+          {
+            "id": 2,
+            "code": "PRW"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "image_mobile_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676581827.png",
+        "image_desktop_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676463421.png",
+        "image_tablet_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676601781.png",
+        "title": "“THẢ TIM” CÓ HẠT DẺ - KHO QUÀ MỚI TƯNG BỪNG",
+        "sub_title": "Clevai cập nhật kho quà +30 món mới đầy thú vị và tính năng “thả tim” nhận ngay 200 hạt dẻ, giúp học sinh có thêm động lực học vui, học đều, học tốt.",
+        "text_in_button": "Vào kho quà",
+        "start_date": 123456789000,
+        "end_date": 123456789000,
+        "active": false,
+        "campaign": "",
+        "cta_url": "",
+        "created_at": 123456789000,
+        "updated_at": 123456789000,
+        "grade_subject_class_levels": [
+          {
+            "id": 0,
+            "grade_id": 0,
+            "class_level_id": 0,
+            "subject_id": 0
+          }
+        ],
+        "websites": [
+          {
+            "id": 1,
+            "code": "STW"
+          },
+          {
+            "id": 2,
+            "code": "PRW"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "image_mobile_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676581827.png",
+        "image_desktop_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676463421.png",
+        "image_tablet_url": "https://r73troypb4obj.vcdn.cloud/picture/Quiz%20image/1663676601781.png",
+        "title": "“THẢ TIM” CÓ HẠT DẺ - KHO QUÀ MỚI TƯNG BỪNG",
+        "sub_title": "Clevai cập nhật kho quà +30 món mới đầy thú vị.",
+        "text_in_button": "Vào kho quà",
+        "start_date": 123456789000,
+        "end_date": 123456789000,
+        "active": false,
+        "campaign": "",
+        "cta_url": "",
+        "created_at": 123456789000,
+        "updated_at": 123456789000,
+        "grade_subject_class_levels": [
+          {
+            "id": 0,
+            "grade_id": 0,
+            "class_level_id": 0,
+            "subject_id": 0
+          }
+        ],
+        "websites": [
+          {
+            "id": 1,
+            "code": "STW"
+          },
+          {
+            "id": 2,
+            "code": "PRW"
+          }
+        ]
+      }
+    ],
+    "trace_id": null
+  }
+}

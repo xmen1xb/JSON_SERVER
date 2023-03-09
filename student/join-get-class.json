@@ -1,0 +1,17 @@
+{
+  "join-get-class": {},
+  "join-get-session-group": {
+    "dsc_session_group_id": 1,
+    "session_group_student_id": 1,
+    "daily_scheduled_class_id": 1,
+    "daily_scheduled_class_code": "",
+    "get_session_group_id": 1,
+    "get_session_group_code": "",
+    "get_teacher_id": 1,
+    "get_teacher_username": "",
+    "get_teacher_full_name": "",
+    "get_teacher_display_name": "",
+    "get_teacher_avatar": "",
+    "meeting_join_url": "fhdfgd"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "find-by-user-account-id": {
+    "status": "success",
+    "data": {
+      "id": 23,
+      "name": "Trần Mạnh Thắng",
+      "main_phone": "0912985125",
+      "extra_phone": "0357002185",
+      "main_email": "test@gmail.com",
+      "address": null,
+      "province_id": null,
+      "district_id": null,
+      "ward_id": null,
+      "is_default": null,
+      "for_payment": null,
+      "for_study": null,
+      "published": null,
+      "customer_role_id": 1,
+      "need_notification": null,
+      "user_account": {
+        "id": 71723,
+        "student_id": null,
+        "email": null,
+        "phone": "0912985125",
+        "gender": null,
+        "first_name": null,
+        "last_name": null,
+        "full_name": "Trần Mạnh Thắng",
+        "display_name": null,
+        "username": "ph_0912985125",
+        "district": null,
+        "school": null,
+        "school_year": null,
+        "city": null,
+        "grade": null,
+        "birthday": null,
+        "avatar": "https://d3b26s38bz5i4w.cloudfront.net/user/profile/avatar/71723/09292022/blob",
+        "address": null,
+        "user_account_type": null
+      }
+    },
+    "trace_id": null
+  }
+}

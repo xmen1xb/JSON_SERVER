@@ -1,0 +1,37 @@
+{
+  "student-statistics": {
+    "status": "success",
+    "data": {
+      "report_type": "MONTHLY",
+      "student_id": 26612,
+      "grade_id": 13,
+      "subject_id": 1,
+      "class_level_id": 1,
+      "current": {
+        "from_date": "2022-07-25",
+        "to_date": "2022-07-31",
+        "total_joins": 2,
+        "total_answers": 19,
+        "correct_percentage": 20,
+        "average_answer_time": 234
+      },
+      "previous": {
+        "from_date": "2022-07-18",
+        "to_date": "2022-07-24",
+        "total_joins": 1,
+        "total_answers": 20,
+        "correct_percentage": 30,
+        "average_answer_time": 235
+      },
+      "friends": {
+        "from_date": "2022-07-25",
+        "to_date": "2022-07-31",
+        "total_joins": 0.9333,
+        "total_answers": 77.2441,
+        "correct_percentage": 52.4363,
+        "average_answer_time": 21.158302
+      }
+    },
+    "trace_id": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "session-learning-coach": {
+    "status": 200,
+    "data": [
+      {
+        "id": 27704,
+        "daily_scheduled_class_id": 15006,
+        "package_code": "PACK_1",
+        "package_name": "PACK 1",
+        "ordering": 1,
+        "created_at": "2022-12-23 07:17:54",
+        "updated_at": "2022-12-23 07:17:54",
+        "published": 1,
+        "learning_objects": [
+          {
+            "id": 43074,
+            "learning_object_code": "L4_41611_13",
+            "learning_object_name": "Chứng minh bốn điểm cùng thuộc một đường tròn",
+            "short_name": "Chứng minh bốn điểm cùng thuộc một đường tròn",
+            "learning_object_difficulty_id": 1,
+            "group": 0,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          },
+          {
+            "id": 43075,
+            "learning_object_code": "L4_41612_56",
+            "learning_object_name": "Tính chu vi tam giác",
+            "short_name": "Tính chu vi tam giác",
+            "learning_object_difficulty_id": 1,
+            "group": 0,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          },
+          {
+            "id": 43076,
+            "learning_object_code": "L4_41429_55",
+            "learning_object_name": "Tính chiều cao tam giác trong bài toán thực tế",
+            "short_name": "Bài toán thực tế",
+            "learning_object_difficulty_id": 2,
+            "group": 1,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          },
+          {
+            "id": 43077,
+            "learning_object_code": "L4_41611_14",
+            "learning_object_name": "Chứng minh một đường là tiếp tuyến của đường tròn",
+            "short_name": "Chứng minh một đường là tiếp tuyến",
+            "learning_object_difficulty_id": 2,
+            "group": 2,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          },
+          {
+            "id": 43078,
+            "learning_object_code": "L4_41612_57",
+            "learning_object_name": "Chứng minh hai đường thẳng song song",
+            "short_name": "Chứng minh hai đường thẳng song song",
+            "learning_object_difficulty_id": 2,
+            "group": 0,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          },
+          {
+            "id": 43080,
+            "learning_object_code": "L4_4168_1",
+            "learning_object_name": "Chứng minh một tia là tia phân giác",
+            "short_name": "Chứng minh một tia là tia phân giác",
+            "learning_object_difficulty_id": 4,
+            "group": 3,
+            "created_at": "2022-12-28 03:46:10",
+            "updated_at": "2022-12-28 03:46:10",
+            "count_children": 12
+          }
+        ]
+      },
+      {
+        "id": 27705,
+        "daily_scheduled_class_id": 15006,
+        "package_code": "PACK_2",
+        "package_name": "PACK 2",
+        "ordering": 2,
+        "created_at": "2022-12-23 07:17:54",
+        "updated_at": "2022-12-23 07:17:54",
+        "published": 1,
+        "learning_objects": [
+          {
+            "id": 43079,
+            "learning_object_code": "L4_41429_56",
+            "learning_object_name": "Chứng minh đẳng thức sử dụng tỉ số lượng giác",
+            "learning_object_difficulty_id": 4,
+            "count_children": "12",
+            "group": 0
+          },
+          {
+            "id": 43081,
+            "learning_object_code": "L4_41612_58",
+            "learning_object_name": "Tính diện tích tam giác theo R",
+            "learning_object_difficulty_id": 5,
+            "count_children": "12",
+            "group": 0
+          }
+        ]
+      }
+    ]
+  }
+}

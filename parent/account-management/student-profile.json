@@ -1,0 +1,112 @@
+{
+  "student-profile": {
+    "status": "success",
+    "data": {
+      "id": 20358,
+      "username": "0912308292",
+      "organization": {
+        "id": 18484,
+        "name": "Gia đình của 0912308292",
+        "notes": "INNIT BY DUNGNV",
+        "students": [
+          {
+            "id": 20358,
+            "username": "0912308292",
+            "full_name": "Mai Đức Tâm",
+            "class_level": "Trình độ C1",
+            "grade": "Khối 8",
+            "class_code": "2S_8MBC1_25_1925_1",
+            "learning_schedule": null,
+            "student_status": "Activated",
+            "end_date": 1670198400000,
+            "start_date": 1653868800000,
+            "cdp_link": "https://cdp2.clevai.edu.vn/student/20358",
+            "number_join_class": 64,
+            "schedule_number": 88
+          }
+        ],
+        "customers": [
+          {
+            "id": 18484,
+            "name": "0912308292",
+            "main_phone": "0912308292",
+            "extra_phone": null,
+            "main_email": null,
+            "address": null,
+            "province_id": null,
+            "district_id": null,
+            "ward_id": null,
+            "is_default": true,
+            "for_payment": false,
+            "for_study": false,
+            "published": true,
+            "customer_role_id": 3,
+            "need_notification": true,
+            "user_account": null
+          }
+        ],
+        "children": []
+      },
+      "purchases": [
+        {
+          "student_id": 20358,
+          "student_username": null,
+          "student_full_name": null,
+          "start_date": 1667790115000,
+          "happened_at": 1625743358000,
+          "end_date": 1637280000000,
+          "product_id": 2,
+          "product": "Clevai Captain",
+          "package_id": 15,
+          "period": 4,
+          "period_unit": "MONTH"
+        },
+        {
+          "student_id": 20358,
+          "student_username": null,
+          "student_full_name": null,
+          "start_date": 1667703715000,
+          "happened_at": 1637138204000,
+          "end_date": 1670198400000,
+          "product_id": 2,
+          "product": "Clevai Captain",
+          "package_id": 17,
+          "period": 12,
+          "period_unit": "MONTH"
+        }
+      ],
+      "student_status": "Activated",
+      "full_name": "Mai Đức Tâm",
+      "first_name": null,
+      "avatar": null,
+      "birthday": null,
+      "gender": null,
+      "address": "",
+      "phone": "0912308292",
+      "school": null,
+      "verified": false,
+      "class_code": "2S_8MBC1_25_1925_1",
+      "class_id": 12677,
+      "class_level": {
+        "id": 1,
+        "code": "C1",
+        "name": "C1",
+        "desc": "Trình độ C1"
+      },
+      "training_type_id": 1,
+      "class_days": "2,5",
+      "class_days_code": "2-1925 | 5-1925",
+      "schedule": null,
+      "grade_id": 12,
+      "grade_name": "Khối 8",
+      "subject_id": 1,
+      "subject_name": "Môn Toán",
+      "total_chestnuts": 13367,
+      "total_gold_stars": 805,
+      "total_xps": 120649,
+      "refund_date": null,
+      "refund_reason": null
+    },
+    "trace_id": null
+  }
+}

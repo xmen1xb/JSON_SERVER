@@ -1,0 +1,38 @@
+{
+  "package-type": {
+    "status": "success",
+    "data": [
+      {
+        "id": 1,
+        "name": "Clevai Captain",
+        "code": "BM",
+        "description": "Math Basic",
+        "training_type_id": 1,
+        "product_id": 2,
+        "created_at": 1648214627000,
+        "updated_at": 1648214630000
+      },
+      {
+        "id": 2,
+        "name": "Clevai Mars",
+        "code": "PM",
+        "description": "Math Plus",
+        "training_type_id": 5,
+        "product_id": 8,
+        "created_at": 1648214627000,
+        "updated_at": 1648214630000
+      },
+      {
+        "id": 3,
+        "name": "High School TP10",
+        "code": "TP",
+        "description": "Test Prep",
+        "training_type_id": 3,
+        "product_id": 14,
+        "created_at": 1648214680000,
+        "updated_at": 1648214682000
+      }
+    ],
+    "trace_id": "0ec4776823a7cd54e632cc4b3ad57bc9"
+  }
+}

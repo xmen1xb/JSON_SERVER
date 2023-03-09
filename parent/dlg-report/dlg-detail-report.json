@@ -1,0 +1,137 @@
+{
+  "dlg-detail-reports": {
+    "status": "success",
+    "data": [
+      {
+        "dsc_lecturer_display_name": "B.T.Tuyết",
+        "dsc_lecturer_avatar": "https://r73troypb4obj.vcdn.cloud/user/profile/avatar/7971/03312021/1617195037705.png",
+        "dsc_assistant_display_name": "V.T.Yến",
+        "dsc_assistant_avatar": "https://r73troypb4obj.vcdn.cloud/user/profile/avatar/231393/01312023/1675142525007.png",
+        "date": "null/null/null",
+        "dsc_joined": true,
+        "dsc_lecturer_id": 7971,
+        "dsc_assistant_id": 231393,
+        "get_teacher_gender": "FEMALE",
+        "dsc_live_at": 1675772700000,
+        "dsc_live_duration": 2708,
+        "next_dsc_live_at": null,
+        "number_of_consecutive_absences": 0,
+        "number_of_consecutive_live_absences": 0,
+        "number_of_live_absences": 0,
+        "dsc_index": 7,
+        "student_id": 229590,
+        "student_full_name": "MAI VIỆT HÙNG",
+        "student_avatar": null,
+        "grade_id": 10,
+        "subject_id": 1,
+        "dsc_id": 15794,
+        "dsc_name": "Phân số. Phân số bằng nhau",
+        "dsc_training_type_id": 1,
+        "class_level_id": 2,
+        "dsc_live_rating": null,
+        "dsc_get_rating": null,
+        "dsc_video_url": "https://stream-clevai.vncdn.vn/rts_07/rts07-manifest.m3u8",
+        "dsc_video_backup_url": "https://r73troypb4obj.vcdn.cloud/live/streaming/upload/G6MS1_20230207_C2/020720230725/output1.mp4",
+        "is_live_join": 0,
+        "is_join_battle": 1,
+        "is_get_join": 1,
+        "dsc_first_joined_at": 1675772751000,
+        "date_id": 1499,
+        "teacher_comment_attitude": "Con hiểu bài và tích cực xung phong.",
+        "teacher_comment_knowledge": "Con nắm vững kiến thức và làm bài  chính xác.",
+        "teacher_comment_skill": "Giáo viên không có nhận xét gì",
+        "teacher_recommendation": "",
+        "dsc_assistant_full_name": "Vũ Thị Yến",
+        "dsc_lecturer_full_name": "Bùi Thị Tuyết",
+        "lecturer_gender": "FEMALE",
+        "assistant_gender": "FEMALE",
+        "class_level_name": "C2",
+        "dsc_session_group_category": "D",
+        "gte_comments": [
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 1,
+            "value": "yes"
+          },
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 2,
+            "value": "yes"
+          },
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 3,
+            "value": "yes"
+          },
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 4,
+            "value": "yes"
+          },
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 5,
+            "value": "yes"
+          },
+          {
+            "geta_student_info_id": 436318,
+            "attribute_id": 6,
+            "value": "yes"
+          }
+        ],
+        "total_assign_lo": null,
+        "total_assign_lo_completed": null,
+        "total_forward_lo": null,
+        "total_forward_lo_completed": null,
+        "num_of_coach_quiz": null,
+        "num_of_coach_quiz_answer_correct": null,
+        "summary_message": null,
+        "success_rate": null,
+        "correct_live_quiz_answers": 2,
+        "total_live_quiz_answers": 2,
+        "total_live_quizzes": 3,
+        "correct_battle_quiz_answers": 4,
+        "total_battle_quizzes": 6,
+        "battle_rank": 4,
+        "total_classmate": 6,
+        "live_quiz_answers": [
+          {
+            "daily_class_id": 15794,
+            "student_id": 229590,
+            "quiz_id": 455044,
+            "ordering": 1,
+            "learning_object_id": 43726,
+            "learning_object_name": "Xác định phân số_mẫu số và tử số là số nguyên_Phạm vi 100",
+            "is_answered": 1,
+            "is_correct": 1
+          },
+          {
+            "daily_class_id": 15794,
+            "student_id": 229590,
+            "quiz_id": 455056,
+            "ordering": 2,
+            "learning_object_id": 43727,
+            "learning_object_name": "Kiểm tra phân số có giá trị là số tự nhiên_dấu hiệu chia hết cho 3, cho 9",
+            "is_answered": 1,
+            "is_correct": 1
+          },
+          {
+            "daily_class_id": 15794,
+            "student_id": null,
+            "quiz_id": 455071,
+            "ordering": 3,
+            "learning_object_id": 43730,
+            "learning_object_name": "Xác định số nguyên x_vận dụng quy tắc bằng nhau của hai phân số",
+            "is_answered": 0,
+            "is_correct": null
+          }
+        ],
+        "GET_teacher_display_name": "B.T.H.Quỳnh",
+        "GET_teacher_id": 53293,
+        "GET_teacher_full_name": "Bùi Thị Hương Quỳnh",
+        "GET_teacher_avatar": null
+      }
+    ],
+    "trace_id": null
+  }
+}
