@@ -41,7 +41,7 @@ module.exports = {
       class_days: "3,7",
       class_type: 2,
       class_level: "C1",
-      training_type_id: 5,
+      training_type_id: 1,
       current_active_students: null,
       learning_schedules: [
         {

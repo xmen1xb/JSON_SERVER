@@ -43,5 +43,6 @@
   "/demo/product": "/product",
   "/lms/student-missions/status**": "/check-mission-state",
   "/lms/student-missions/assigned-homework-missions**": "/assigned-missions",
-  "/reporting/daily-learning-object-details**": "/daily-learning-object-details"
+  "/reporting/daily-learning-object-details**": "/daily-learning-object-details",
+  "/lms/student-missions/**/receive-rewards": "/receive-rewards"
 }

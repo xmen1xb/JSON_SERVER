@@ -8,7 +8,7 @@ server.use(middlewares);
 // "COACHING_RESULT_HAS_OLD_LO","COACH_END_CONTINUTES","LEARNING_OBJECT_OLD_PAGE","LIVE_ZOOM_RUNNING","LIVESTREAM_START"
 // "LIVESTREAM_END","BATTLE_START","GET_CLASS","TEST_PREP_12_SUMMARY"
 server.get("/lms/daily-scheduled-classes/current-stage**", (req, res) => {
-  res.jsonp("BATTLE_SUMMARY");
+  res.jsonp("COACHING");
 });
 server.get("/echo", (req, res) => {
   res.jsonp(req.query);

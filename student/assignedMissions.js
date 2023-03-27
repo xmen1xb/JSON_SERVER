@@ -9,7 +9,7 @@ module.exports = {
       dsc_id: 1,
       dsc_index: 1,
       dsc_name: "Tinh the tich",
-      status: "IN_PROGRESS",
+      status: "COMPLETED",
       assigned_at: 123456789000,
       expired_at: 123456789000,
       children: [
@@ -151,7 +151,7 @@ module.exports = {
       ],
     },
     {
-      id: 1,
+      id: 2,
       mission_type: {
         id: 1,
         code: "DAILY_SCHEDULED_CLASS_HOMEWORK",
@@ -232,12 +232,12 @@ module.exports = {
         {
           xchangeable_point_id: 1,
           amount: 100,
-          received_at: 12,
+          received_at: null,
         },
       ],
     },
     {
-      id: 1,
+      id: 3,
       mission_type: {
         id: 1,
         code: "DAILY_SCHEDULED_CLASS_HOMEWORK",
@@ -318,12 +318,12 @@ module.exports = {
         {
           xchangeable_point_id: 1,
           amount: 100,
-          received_at: 12,
+          received_at: null,
         },
       ],
     },
     {
-      id: 1,
+      id: 4,
       mission_type: {
         id: 1,
         code: "DAILY_SCHEDULED_CLASS_HOMEWORK",
@@ -405,6 +405,11 @@ module.exports = {
           xchangeable_point_id: 1,
           amount: 100,
           received_at: 12,
+        },
+        {
+          xchangeable_point_id: 1,
+          amount: 100,
+          received_at: null,
         },
       ],
     },
